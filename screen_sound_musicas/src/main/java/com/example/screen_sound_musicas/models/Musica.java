@@ -61,8 +61,7 @@ public class Musica {
     @Override
     public String toString() {
         return "Musica{" +
-                "id=" + id +
-                ", nome='" + nome + '\'' +
+                "nome='" + nome + '\'' +
                 ", genero='" + genero + '\'' +
                 '}';
     }

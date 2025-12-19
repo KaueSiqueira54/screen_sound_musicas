@@ -65,7 +65,6 @@ public class Artista {
     @Override
     public String toString() {
         return "Artista{" +
-                "id=" + id +
                 ", nome='" + nome + '\'' +
                 ", categoria='" + categoria + '\'' +
                 '}';
